@@ -1,9 +1,9 @@
 {
-  "name": "Catppuccin Mocha - Mauve",
+  "name": "Edited Catppuccin Mocha - Mauve",
   "description": "Soothing pastel theme for the high-spirited!",
   "authors": [
     {
-      "name": "Catppuccin"
+      "name": "Latte"
     }
   ],
   "semanticColors": {
@@ -95,12 +95,6 @@
     "PLUM_14": "#585b70",
     "PLUM_15": "#45475a",
     "PLUM_16": "#313244",
-    "PLUM_17": "#11111b",
-    "PLUM_18": "#313244",
-    "PLUM_19": "#313244",
-    "PLUM_20": "#181825",
-    "PLUM_21": "#181825",
-    "PLUM_22": "#11111b",
     "PLUM_3": "#cdd6f4",
     "PLUM_4": "#cba6f7",
     "PLUM_6": "#cdd6f4",
